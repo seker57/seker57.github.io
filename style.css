@@ -11,4 +11,12 @@ table{
     background-color: red;
     color:white;
 }
-
+#navbar a{
+    color:white;
+    background-color:red;
+}
+#navbar a:hover{
+    color:red;
+    background-color:white;
+    
+}
